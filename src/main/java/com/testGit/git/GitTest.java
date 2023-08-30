@@ -5,5 +5,6 @@ public class GitTest {
         System.out.println("Git");
         System.out.println("second git");
         System.out.println("master commit");
+        System.out.println("third commit");
     }
 }
